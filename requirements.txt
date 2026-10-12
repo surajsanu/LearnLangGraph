@@ -9,3 +9,4 @@ sentence-transformers
 langchain_chroma
 pypdf
 streamlit
+langchain_tavily
